@@ -1,12 +1,6 @@
 <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">Hi there! I'm Lucas Airam </h3>
 
 <div align="center">
-  <a href="https://github.com/airaml">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=airaml&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airaml&layout=compact&langs_count=7&theme=dark">
-</div>
-  
-<div align="center">
   <a href="mailto:airaml@gta.ufrj.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/airaml/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
